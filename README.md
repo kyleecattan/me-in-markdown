@@ -1,5 +1,5 @@
 # me-in-markdown  
-Hello Mr. Aiello, ***my name is Kylee Cattan***, I am a freshman that came from Lawrence MS. I am 13 years old and my birthday is August 16, 2012, which is 2 days from now. I will be talking about myself in my essay.
+Hello Mr. Aiello, ***my name is Kylee Cattan***. I am a freshman that came from Lawrence MS. I am 13 years old and my birthday is August 16, 2012, which is 2 days from now. I will be talking about myself in my essay.
 
 
  *One thing everyone knows about me is I'm a big volleyball player.* <u>I have played for 4 years and im currently on our schools JV team.</u> I have player 4 years of club and 9 seasons of park. I also sometimes practice and play with varsity. Before I played volleyball I had a choice between playing basketball, which my dad played and I used to play for fun. The other option was playing volleyball, which all my friends had just started playing and I chose volleyball. I also used to play soccer for fun with my friends, but my first official sport was volleyball. My whole week consists of volleyball practice, so I dont have a lot of free time. When I do have free time Iike to hang out with my friends and go to Six Flags. I also really like kpop so I go to concerts often. I also like watching anime in my free time. 
@@ -13,4 +13,8 @@ Hello Mr. Aiello, ***my name is Kylee Cattan***, I am a freshman that came from 
       
 
 
-  [My playlist of song recomendations!](https://open.spotify.com/playlist/7MDlMODkS2tkNYeNiR0k6h?si=s584h7NTSHu-iPcywMrbDw&utm_source=copy-link)
+  [*My playlist of song recomendations!*](https://open.spotify.com/playlist/7MDlMODkS2tkNYeNiR0k6h?si=s584h7NTSHu-iPcywMrbDw&utm_source=copy-link)
+ 
+
+ My collage of pictures! -
+https://canva.link/qu3di1ka4qh3omc
